@@ -1,0 +1,25 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-react": "^7.0.0",
+    "@symfony/webpack-encore": "^1.5.0",
+    "sass-loader": "^12.0.0",
+    "ts-loader": "^9.0.0",
+    "typescript": "^4.3.5",
+    "webpack-notifier": "^1.6.0"
+  },
+  "scripts": {
+    "dev": "encore dev --watch",
+    "dev-server": "encore dev-server",
+    "production": "encore production"
+  },
+  "dependencies": {
+    "babel-preset-react": "^6.24.1",
+    "bulma": "^0.9.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
