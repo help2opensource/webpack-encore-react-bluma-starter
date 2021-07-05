@@ -1,3 +1,3 @@
 # webpack-encore-react-bluma-starter
 
-A starter for webpack encore for react with bluma css style.
+A starter for webpack encore with react and bluma.
